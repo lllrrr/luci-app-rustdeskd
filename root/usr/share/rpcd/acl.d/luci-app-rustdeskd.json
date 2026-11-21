@@ -26,6 +26,9 @@
                 "/usr/bin/hbbr": [
                     "read"
                 ],
+                "/sbin/logread": [
+                    "exec"
+                ],
                 "/etc/rustdesk/id_ed25519.pub": [
                     "read"
                 ],
